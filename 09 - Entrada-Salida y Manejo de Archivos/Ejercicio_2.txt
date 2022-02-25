@@ -1,0 +1,2 @@
+marca_tiempo,grados_centigrados,humedad,lluvia
+2022-02-24,26,11,False
